@@ -36,6 +36,7 @@ h3 {
   margin-bottom: 10px; }
 
 .hero {
+  background-image: url('../images/hero_bg_1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   -o-background-size: cover;
