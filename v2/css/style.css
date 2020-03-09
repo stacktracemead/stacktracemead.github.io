@@ -35,6 +35,13 @@ h3 {
   color: #40444C;
   margin-bottom: 10px; }
 
+.hero {
+  background-repeat: no-repeat;
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
 .text-black {
   color: #000 !important; }
 
