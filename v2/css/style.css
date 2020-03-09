@@ -487,8 +487,7 @@ h3 {
 .site-blocks-cover {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top;
-  background-attachment: fixed; }
+  background-position: top; }
   .site-blocks-cover.overlay {
     position: relative; }
     .site-blocks-cover.overlay:before {
