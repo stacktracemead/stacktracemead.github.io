@@ -294,7 +294,8 @@ jQuery(document).ready(function($) {
       $('html, body').animate({
         'scrollTop': $(hash).offset().top - 0
       }, 1000, 'easeInOutCirc', function(){
-        window.location.hash = hash;
+					window.location.hash = hash;
+					$('body').removeClass('offcanvas-menu'); //close the menu
       });
 
     });

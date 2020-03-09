@@ -24,6 +24,17 @@ a {
 h1, h2, h3, h4, h5, h6 {
   color: #000; }
 
+h2 a { text-decoration: underline; }
+
+h3 {
+  font-size: 30px;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-weight: 700;
+  color: #40444C;
+  margin-bottom: 10px; }
+
 .text-black {
   color: #000 !important; }
 
@@ -772,10 +783,7 @@ h1, h2, h3, h4, h5, h6 {
       .about-section .img-years .years {
         font-size: 80px; } }
 
-.about-section h3 {
-  font-size: 30px;
-  font-weight: bold;
-  color: #000; }
+
 
 .media.custom-media .icon {
   position: relative;
