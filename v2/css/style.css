@@ -967,6 +967,7 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
     margin-bottom: 30px; }
     .person .bio-img img {
+      max-width: 50%;
       position: relative; }
     .person .bio-img .social {
       z-index: 2;
